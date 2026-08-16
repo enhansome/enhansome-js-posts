@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T16:29:46Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101006
+            "stars": 101009
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-06T22:20:40Z",
             "owner": "sindresorhus",
             "repo": "ky",
-            "stars": 17025
+            "stars": 17026
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-14T12:24:55Z",
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13780
+            "stars": 13779
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T13:09:48Z",
             "owner": "sindresorhus",
             "repo": "eslint-plugin-unicorn",
-            "stars": 5217
+            "stars": 5218
           }
         },
         {
@@ -137,6 +137,20 @@
         },
         {
           "node_type": "item",
+          "title": "Dembrandt: Extract design tokens and components from any site (Playwright)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:51:33Z",
+            "owner": "dembrandt",
+            "repo": "dembrandt",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Panolens.js: A JavaScript Panorama Viewer Based on Three.js",
           "description": null,
           "children": [],
@@ -147,20 +161,6 @@
             "owner": "pchen66",
             "repo": "panolens.js",
             "stars": 2857
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dembrandt: Extract design tokens and components from any site (Playwright)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T20:51:33Z",
-            "owner": "dembrandt",
-            "repo": "dembrandt",
-            "stars": 2832
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2024-05-15T05:19:08Z",
             "owner": "netgusto",
             "repo": "nodebook",
-            "stars": 1644
+            "stars": 1643
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2021-09-03T16:09:10Z",
             "owner": "msaaddev",
             "repo": "new-tailwind-app",
-            "stars": 250
+            "stars": 249
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-08-08T05:23:45Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128715
+            "stars": 128722
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65318
+            "stars": 65317
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105526
+            "stars": 105551
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-14T17:42:16Z",
             "owner": "salsita",
             "repo": "node-pg-migrate",
-            "stars": 1474
+            "stars": 1475
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-14T18:00:32Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108241
+            "stars": 108257
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-08-14T04:18:31Z",
             "owner": "Simon-He95",
             "repo": "markstream-vue",
-            "stars": 2887
+            "stars": 2892
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-07-12T15:58:18Z",
             "owner": "adrianjanocko",
             "repo": "toastflow",
-            "stars": 194
+            "stars": 195
           }
         }
       ],
@@ -692,7 +692,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495987
+            "stars": 496374
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84063
+            "stars": 84086
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74283
+            "stars": 74289
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73544
+            "stars": 73545
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33610
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-07-28T02:18:16Z",
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9024
+            "stars": 9028
           }
         },
         {
@@ -790,7 +790,7 @@
             "last_commit": "2025-09-15T21:53:32Z",
             "owner": "nuxt",
             "repo": "awesome",
-            "stars": 5517
+            "stars": 5518
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:46:31.260Z",
+    "last_updated": "2026-08-16T13:47:52.855Z",
     "original_repository": "palashmon/awesome-js-posts",
     "original_repository_sha": "f201fbffee5b66153b1ffc091f2fe676865e624c",
     "enhanced_repository": "enhansome/enhansome-js-posts",
