@@ -135,9 +135,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Helper Components
 
-* [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky) ⭐ 17,030 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-06
+* [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky) ⭐ 17,031 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-06
 * [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js) ⭐ 15,128 | 🐛 328 | 🌐 JavaScript | 📅 2026-08-18
-* [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd) ⭐ 13,782 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-17
+* [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd) ⭐ 13,783 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-17
 * [git-history: Quickly Browse the History of any GitHub File](https://github.com/pomber/git-history) ⭐ 13,688 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10
 * [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle) ⭐ 7,753 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-07
 * [eslint-plugin-unicorn: Various Awesome ESLint Rules](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 5,222 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-14
@@ -154,7 +154,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 * [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string) ⭐ 588 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23
 * [PocketMocker: In-browser fetch/XHR interceptor for API mocking](https://github.com/tianchangNorth/pocket-mocker) ⭐ 525 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-11
 * [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax) ⭐ 505 | 🐛 10 | 🌐 TypeScript | 📅 2022-11-13
-* [FUNC: Another Simple Way to Build Command-Line Tools](https://github.com/unix/func) ⭐ 408 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
+* [FUNC: Another Simple Way to Build Command-Line Tools](https://github.com/unix/func) ⭐ 410 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
 * [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon) ⭐ 313 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-06
 * [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app) ⚠️ Archived
 * [Composify: Embed a visual editor to compose pages from real React components](https://github.com/composify-js/composify) ⭐ 246 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-18
@@ -188,7 +188,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## JavaScript
 
-* [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code) ⭐ 128,744 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19
+* [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code) ⭐ 128,742 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19
 * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme) ⭐ 66,510 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
 * [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions) ⭐ 65,316 | 🐛 54 | 📅 2024-08-04
 * [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript#readme) ⭐ 3,974 | 🐛 0 | 🌐 HTML | 📅 2020-10-14
@@ -292,7 +292,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Deno
 
-* [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2) ⭐ 108,259 | 🐛 1,505 | 🌐 Rust | 📅 2026-08-19
+* [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2) ⭐ 108,259 | 🐛 1,504 | 🌐 Rust | 📅 2026-08-19
 * [Survey Results and Roadmap 2024](https://deno.com/blog/2024-survey-results-and-roadmap)
 * [Learn Deno and Go Beyond Node.js](https://kinsta.com/blog/deno-js/)
 * [Writing a WebSocket server in JavaScript (Deno)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_a_WebSocket_server_in_JavaScript_Deno)
@@ -373,7 +373,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 * [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 * [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 * [Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
-* [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ⭐ 110,204 | 🐛 5,054 | 🌐 TypeScript | 📅 2026-08-14
+* [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ⭐ 110,207 | 🐛 5,054 | 🌐 TypeScript | 📅 2026-08-14
 * [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/)
 * [Type-Driven Development: Replacing Unit Tests with Types in TypeScript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/)
 * [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/)
@@ -394,7 +394,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Vue.js
 
 * [Useful Vue patterns, techniques, tips and tricks and helpful curated links](https://github.com/learn-vuejs/vue-patterns) ⭐ 2,943 | 🐛 21 | 📅 2022-12-10
-* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,899 | 🐛 0 | 🌐 Vue | 📅 2026-08-19 - Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,901 | 🐛 0 | 🌐 Vue | 📅 2026-08-19 - Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.
 * [Vue-stream-markdown: Streaming markdown renderer for Vue 3](https://github.com/jinghaihan/vue-stream-markdown) ⭐ 226 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-05
 * [Toastflow: TS-first toast engine for Vue 3](https://github.com/adrianjanocko/toastflow) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-12
 * [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)
@@ -491,9 +491,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,663 | 🐛 102 | 📅 2026-08-18
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,690 | 🐛 102 | 📅 2026-08-18
 * [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
-* [enaqx/awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,334 | 🐛 80 | 📅 2026-07-20
+* [enaqx/awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,334 | 🐛 81 | 📅 2026-07-20
 * [Vue.js/awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,538 | 🐛 94 | 📅 2026-07-24
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,036 | 🐛 17 | 📅 2026-07-28
