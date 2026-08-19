@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:51:07Z",
+            "last_commit": "2026-08-19T00:42:26Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101003
+            "stars": 101006
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96062036,
             "language": "TypeScript",
             "last_commit": "2023-02-12T12:55:42Z",
             "owner": "avatsaev",
@@ -35,7 +37,7 @@
       "title": "Angular"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147375544,
             "language": "TypeScript",
             "last_commit": "2026-07-06T22:20:40Z",
             "owner": "sindresorhus",
             "repo": "ky",
-            "stars": 17029
+            "stars": 17030
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142177378,
             "language": "JavaScript",
             "last_commit": "2026-08-18T01:51:48Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15127
+            "stars": 15128
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15246993,
             "language": "JavaScript",
             "last_commit": "2026-08-17T13:50:10Z",
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13780
+            "stars": 13782
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169149127,
             "language": "JavaScript",
             "last_commit": "2024-10-10T10:15:02Z",
             "owner": "pomber",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136463760,
             "language": "TypeScript",
             "last_commit": "2026-08-07T07:05:19Z",
             "owner": "electron",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55832243,
             "language": "JavaScript",
             "last_commit": "2026-08-14T13:09:48Z",
             "owner": "sindresorhus",
             "repo": "eslint-plugin-unicorn",
-            "stars": 5220
+            "stars": 5222
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138644245,
             "language": "JavaScript",
             "last_commit": "2025-01-01T14:55:40Z",
             "owner": "imbrn",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1101924225,
             "language": "TypeScript",
             "last_commit": "2026-08-13T20:51:33Z",
             "owner": "dembrandt",
             "repo": "dembrandt",
-            "stars": 2896
+            "stars": 2905
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46604802,
             "language": "JavaScript",
             "last_commit": "2023-06-02T06:28:30Z",
             "owner": "pchen66",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143632910,
             "language": "JavaScript",
             "last_commit": "2025-02-05T18:52:56Z",
             "owner": "ziishaned",
@@ -184,8 +196,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3455070,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T12:28:07Z",
+            "last_commit": "2026-08-19T07:36:33Z",
             "owner": "swagger-api",
             "repo": "swagger-client",
             "stars": 2694
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147491459,
             "language": "Go",
             "last_commit": "2024-05-15T05:19:08Z",
             "owner": "netgusto",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13905184,
             "language": "CoffeeScript",
             "last_commit": "2024-06-16T12:51:51Z",
             "owner": "AriaMinaei",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275629272,
             "language": "TypeScript",
             "last_commit": "2026-05-22T05:36:53Z",
             "owner": "lmammino",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 172099953,
             "language": "JavaScript",
             "last_commit": "2026-03-28T06:21:57Z",
             "owner": "sindresorhus",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31264812,
             "language": "JavaScript",
             "last_commit": "2021-06-13T11:52:22Z",
             "owner": "zewish",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73665728,
             "language": "JavaScript",
             "last_commit": "2026-07-23T16:45:42Z",
             "owner": "sindresorhus",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103655521,
             "language": "TypeScript",
             "last_commit": "2026-06-11T01:29:18Z",
             "owner": "tianchangNorth",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138423847,
             "language": "TypeScript",
             "last_commit": "2022-11-13T16:05:47Z",
             "owner": "jamiemccrindle",
@@ -310,8 +331,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191786216,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T05:35:06Z",
+            "last_commit": "2026-08-19T11:48:54Z",
             "owner": "unix",
             "repo": "func",
             "stars": 408
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243270689,
             "language": "JavaScript",
             "last_commit": "2023-01-06T02:36:56Z",
             "owner": "lamplightdev",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 375746210,
             "language": "JavaScript",
             "last_commit": "2021-09-03T16:09:10Z",
             "owner": "msaaddev",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041793374,
             "language": "TypeScript",
             "last_commit": "2025-12-18T06:40:35Z",
             "owner": "composify-js",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213008821,
             "language": "TypeScript",
             "last_commit": "2023-01-07T10:24:20Z",
             "owner": "getcampsite",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167552779,
             "language": "TypeScript",
             "last_commit": "2023-04-30T07:54:45Z",
             "owner": "hediet",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145631871,
             "language": "JavaScript",
             "last_commit": "2022-12-07T23:30:07Z",
             "owner": "drewjbartlett",
@@ -405,7 +433,7 @@
       "title": "Helper Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -414,11 +442,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112507086,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T05:23:45Z",
+            "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128734
+            "stars": 128744
           }
         },
         {
@@ -428,11 +457,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147350463,
             "language": "JavaScript",
             "last_commit": "2026-08-02T14:51:44Z",
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66509
+            "stars": 66510
           }
         },
         {
@@ -442,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191529732,
             "language": null,
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65317
+            "stars": 65316
           }
         },
         {
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81226988,
             "language": "HTML",
             "last_commit": "2020-10-14T17:54:43Z",
             "owner": "mjavascript",
@@ -467,7 +499,7 @@
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -476,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103633984,
             "language": "Dockerfile",
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105585
+            "stars": 105589
           }
         },
         {
@@ -490,11 +523,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18193978,
             "language": "TypeScript",
             "last_commit": "2026-07-17T21:38:13Z",
             "owner": "sindresorhus",
             "repo": "got",
-            "stars": 14929
+            "stars": 14930
           }
         },
         {
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140393403,
             "language": "JavaScript",
             "last_commit": "2023-06-07T07:24:18Z",
             "owner": "lukeed",
@@ -518,11 +553,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17729096,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:03:19Z",
+            "last_commit": "2026-08-19T00:30:32Z",
             "owner": "salsita",
             "repo": "node-pg-migrate",
-            "stars": 1475
+            "stars": 1476
           }
         },
         {
@@ -532,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146788128,
             "language": "TypeScript",
             "last_commit": "2023-08-15T13:18:38Z",
             "owner": "ry",
@@ -543,7 +580,7 @@
       "title": "Node.js"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -552,24 +589,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-18T12:36:29Z",
+            "last_commit": "2026-08-19T12:12:00Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108251
+            "stars": 108259
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Deploy Deno to Azure App Service using GitHub Action",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Deno"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133761470,
             "language": null,
             "last_commit": "2024-12-31T22:23:48Z",
             "owner": "sdras",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131546414,
             "language": null,
             "last_commit": "2019-03-29T16:15:37Z",
             "owner": "gaearon",
@@ -606,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106485115,
             "language": "JavaScript",
             "last_commit": "2023-03-02T13:03:42Z",
             "owner": "mjbvz",
@@ -617,7 +652,7 @@
       "title": "VS Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130641386,
             "language": null,
             "last_commit": "2022-12-10T19:42:10Z",
             "owner": "learn-vuejs",
@@ -640,11 +676,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 988222683,
             "language": "Vue",
-            "last_commit": "2026-08-18T07:48:33Z",
+            "last_commit": "2026-08-19T09:07:45Z",
             "owner": "Simon-He95",
             "repo": "markstream-vue",
-            "stars": 2898
+            "stars": 2899
           }
         },
         {
@@ -654,11 +691,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103637064,
             "language": "TypeScript",
             "last_commit": "2026-08-05T15:50:08Z",
             "owner": "jinghaihan",
             "repo": "vue-stream-markdown",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -668,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1101868212,
             "language": "TypeScript",
             "last_commit": "2026-07-12T15:58:18Z",
             "owner": "adrianjanocko",
@@ -679,7 +718,7 @@
       "title": "Vue.js"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -688,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497236
+            "stars": 497663
           }
         },
         {
@@ -702,11 +742,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47018239,
             "language": null,
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84094
+            "stars": 84117
           }
         },
         {
@@ -716,11 +757,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22670857,
             "language": null,
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74315
+            "stars": 74334
           }
         },
         {
@@ -730,11 +772,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44571718,
             "language": null,
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73541
+            "stars": 73538
           }
         },
         {
@@ -744,11 +787,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33611
+            "stars": 33609
           }
         },
         {
@@ -758,11 +802,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25212911,
             "language": null,
             "last_commit": "2026-07-28T02:18:16Z",
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9035
+            "stars": 9036
           }
         },
         {
@@ -772,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30108786,
             "language": null,
             "last_commit": "2024-10-30T07:00:24Z",
             "owner": "awesome-css-group",
@@ -786,11 +832,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80724464,
             "language": null,
             "last_commit": "2025-09-15T21:53:32Z",
             "owner": "nuxt",
             "repo": "awesome",
-            "stars": 5520
+            "stars": 5521
           }
         },
         {
@@ -800,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24217086,
             "language": "Shell",
             "last_commit": "2026-07-16T16:17:42Z",
             "owner": "willianjusten",
@@ -814,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21388604,
             "language": null,
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
@@ -828,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23401311,
             "language": null,
             "last_commit": "2019-01-15T02:01:07Z",
             "owner": "gianarb",
@@ -842,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25960710,
             "language": null,
             "last_commit": "2026-01-01T15:37:15Z",
             "owner": "petk",
@@ -856,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136332742,
             "language": null,
             "last_commit": "2026-05-09T13:45:24Z",
             "owner": "styfle",
@@ -870,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34875393,
             "language": null,
             "last_commit": "2024-01-15T14:50:26Z",
             "owner": "obetomuniz",
@@ -884,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27586090,
             "language": null,
             "last_commit": "2018-03-20T10:01:27Z",
             "owner": "sadcitizen",
@@ -898,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25577168,
             "language": null,
             "last_commit": "2020-09-25T22:46:54Z",
             "owner": "petk",
@@ -910,8 +965,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:00:24.859Z",
+    "last_updated": "2026-08-19T12:34:15.153Z",
     "original_repository": "palashmon/awesome-js-posts",
+    "original_repository_id": 137085542,
     "original_repository_sha": "f201fbffee5b66153b1ffc091f2fe676865e624c",
     "enhanced_repository": "enhansome/enhansome-js-posts",
     "enhanced_repository_description": null,
