@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T20:48:22Z",
+            "last_commit": "2026-08-22T01:13:19Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101004
+            "stars": 100998
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-06T22:20:40Z",
             "owner": "sindresorhus",
             "repo": "ky",
-            "stars": 17035
+            "stars": 17036
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 142177378,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T06:19:06Z",
+            "last_commit": "2026-08-21T17:39:54Z",
             "owner": "apexcharts",
             "repo": "apexcharts.js",
-            "stars": 15132
+            "stars": 15131
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T17:20:05Z",
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13789
+            "stars": 13790
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T13:09:48Z",
             "owner": "sindresorhus",
             "repo": "eslint-plugin-unicorn",
-            "stars": 5224
+            "stars": 5227
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2025-01-01T14:55:40Z",
             "owner": "imbrn",
             "repo": "v8n",
-            "stars": 4144
+            "stars": 4143
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 1101924225,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:51:33Z",
+            "last_commit": "2026-08-21T23:23:33Z",
             "owner": "dembrandt",
             "repo": "dembrandt",
-            "stars": 2924
+            "stars": 2931
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T07:36:33Z",
             "owner": "swagger-api",
             "repo": "swagger-client",
-            "stars": 2695
+            "stars": 2694
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128768
+            "stars": 128786
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-02T14:51:44Z",
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66509
+            "stars": 66513
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65319
+            "stars": 65323
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105595
+            "stars": 105596
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-07-17T21:38:13Z",
             "owner": "sindresorhus",
             "repo": "got",
-            "stars": 14931
+            "stars": 14932
           }
         },
         {
@@ -591,10 +591,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-21T13:50:35Z",
+            "last_commit": "2026-08-22T12:52:12Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108274
+            "stars": 108272
           }
         }
       ],
@@ -656,6 +656,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Markstream",
+          "description": "Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988222683,
+            "language": "Vue",
+            "last_commit": "2026-08-22T03:07:32Z",
+            "owner": "Simon-He95",
+            "repo": "markstream-vue",
+            "stars": 2944
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Useful Vue patterns, techniques, tips and tricks and helpful curated links",
           "description": null,
           "children": [],
@@ -667,21 +682,6 @@
             "owner": "learn-vuejs",
             "repo": "vue-patterns",
             "stars": 2943
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Markstream",
-          "description": "Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 988222683,
-            "language": "Vue",
-            "last_commit": "2026-08-21T12:20:18Z",
-            "owner": "Simon-He95",
-            "repo": "markstream-vue",
-            "stars": 2906
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498512
+            "stars": 498853
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84141
+            "stars": 84154
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74351
+            "stars": 74368
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73539
+            "stars": 73541
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33614
+            "stars": 33617
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-07-28T02:18:16Z",
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9042
+            "stars": 9044
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3200
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:01:39.948Z",
+    "last_updated": "2026-08-22T13:47:24.611Z",
     "original_repository": "palashmon/awesome-js-posts",
     "original_repository_id": 137085542,
     "original_repository_sha": "f201fbffee5b66153b1ffc091f2fe676865e624c",
