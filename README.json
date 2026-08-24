@@ -156,7 +156,7 @@
             "last_commit": "2026-08-24T13:48:55Z",
             "owner": "dembrandt",
             "repo": "dembrandt",
-            "stars": 3190
+            "stars": 3192
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128810
+            "stars": 128808
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65323
+            "stars": 65324
           }
         },
         {
@@ -591,10 +591,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:27:28Z",
+            "last_commit": "2026-08-24T14:38:50Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108295
+            "stars": 108296
           }
         }
       ],
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499518
+            "stars": 499526
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84187
+            "stars": 84185
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74383
+            "stars": 74384
           }
         },
         {
@@ -1049,7 +1049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:58.041Z",
+    "last_updated": "2026-08-24T15:07:07.867Z",
     "original_repository": "palashmon/awesome-js-posts",
     "original_repository_id": 137085542,
     "original_repository_sha": "f201fbffee5b66153b1ffc091f2fe676865e624c",
