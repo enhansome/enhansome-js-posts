@@ -43,7 +43,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Angular
 
-* [Angular 8.0.0-RC.0 is out!](https://github.com/angular/angular/blob/master/CHANGELOG.md#800-rc0-2019-04-25) ⭐ 101,019 | 🐛 1,161 | 🌐 TypeScript | 📅 2026-08-31
+* [Angular 8.0.0-RC.0 is out!](https://github.com/angular/angular/blob/master/CHANGELOG.md#800-rc0-2019-04-25) ⭐ 101,020 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-01
 * [Full Stack Angular PWA example app with NgRx & NestJS](https://github.com/avatsaev/angular-contacts-app-example) ⭐ 615 | 🐛 6 | 🌐 TypeScript | 📅 2023-02-12
 * [Angular v16 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 * [What's New in Angular 16 and What To Expect](https://betterprogramming.pub/angular-16-whats-new-and-what-to-expect-e14e15e500f8)
@@ -139,13 +139,13 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Helper Components
 
 * [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky) ⭐ 17,053 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28
-* [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js) ⭐ 15,146 | 🐛 307 | 🌐 JavaScript | 📅 2026-08-31
-* [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd) ⭐ 13,809 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-25
-* [git-history: Quickly Browse the History of any GitHub File](https://github.com/pomber/git-history) ⭐ 13,692 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10
+* [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js) ⭐ 15,146 | 🐛 309 | 🌐 JavaScript | 📅 2026-08-31
+* [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd) ⭐ 13,808 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-01
+* [git-history: Quickly Browse the History of any GitHub File](https://github.com/pomber/git-history) ⭐ 13,690 | 🐛 94 | 🌐 JavaScript | 📅 2024-10-10
 * [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle) ⭐ 7,758 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-07
-* [eslint-plugin-unicorn: Various Awesome ESLint Rules](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 5,232 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-31
+* [eslint-plugin-unicorn: Various Awesome ESLint Rules](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 5,233 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-01
 * [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n) ⭐ 4,143 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-01
-* [Dembrandt: Extract design tokens and components from any site (Playwright)](https://github.com/dembrandt/dembrandt) ⭐ 3,282 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29
+* [Dembrandt: Extract design tokens and components from any site (Playwright)](https://github.com/dembrandt/dembrandt) ⭐ 3,290 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-01
 * [Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js) ⚠️ Archived
 * [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js) ⭐ 2,751 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-05
 * [Swagger Client: A JS Client to Fetch, Resolve, and Interact with Swagger/OpenAPI Documents](https://github.com/swagger-api/swagger-js) ⭐ 2,694 | 🐛 73 | 🌐 JavaScript | 📅 2026-08-19
@@ -191,9 +191,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## JavaScript
 
-* [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code) ⭐ 128,876 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19
-* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme) ⭐ 66,521 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
-* [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions) ⭐ 65,326 | 🐛 53 | 📅 2024-08-04
+* [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code) ⭐ 128,890 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19
+* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme) ⭐ 66,519 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-02
+* [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions) ⭐ 65,323 | 🐛 53 | 📅 2024-08-04
 * [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript#readme) ⭐ 3,975 | 🐛 0 | 🌐 HTML | 📅 2020-10-14
 * [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
@@ -252,10 +252,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Node.js
 
-* [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,599 | 🐛 137 | 🌐 Dockerfile | 📅 2026-06-15
-* [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got) ⭐ 14,941 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30
+* [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,601 | 🐛 137 | 🌐 Dockerfile | 📅 2026-06-15
+* [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got) ⭐ 14,941 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
 * [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur) ⭐ 1,696 | 🐛 13 | 🌐 JavaScript | 📅 2023-06-07
-* [node-pg-migrate: Node.js Database Migration Management for PostgreSQL](https://github.com/salsita/node-pg-migrate) ⭐ 1,477 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-27
+* [node-pg-migrate: Node.js Database Migration Management for PostgreSQL](https://github.com/salsita/node-pg-migrate) ⭐ 1,477 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-01
 * [See also deno: A secure TypeScript runtime on V8](https://github.com/ry/deno) ⭐ 448 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
 * [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
 * [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/)
@@ -295,7 +295,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Deno
 
-* [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2) ⭐ 108,357 | 🐛 1,538 | 🌐 Rust | 📅 2026-08-31
+* [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2) ⭐ 108,363 | 🐛 1,539 | 🌐 Rust | 📅 2026-09-01
 * [Survey Results and Roadmap 2024](https://deno.com/blog/2024-survey-results-and-roadmap)
 * [Learn Deno and Go Beyond Node.js](https://kinsta.com/blog/deno-js/)
 * [Writing a WebSocket server in JavaScript (Deno)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_a_WebSocket_server_in_JavaScript_Deno)
@@ -355,7 +355,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Testing
 
-* [Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)](https://github.com/goldbergyoni/javascript-testing-best-practices) ⭐ 24,628 | 🐛 70 | 🌐 JavaScript | 📅 2024-06-27
+* [Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)](https://github.com/goldbergyoni/javascript-testing-best-practices) ⭐ 24,626 | 🐛 70 | 🌐 JavaScript | 📅 2024-06-27
 * [Wallaby.js: 15x Faster JavaScript/Jest Testing and Debugging](https://wallabyjs.com/?utm_source=awesome-js-posts\&utm_medium=github)
 * [End-to-End Testing Web Apps: The Painless Way](https://mtlynch.io/painless-web-app-testing/)
 * [Writing Testable Code](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb)
@@ -368,7 +368,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## TypeScript
 
-* [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ⭐ 110,817 | 🐛 5,178 | 🌐 Go | 📅 2026-08-31
+* [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ⭐ 110,837 | 🐛 5,169 | 🌐 Go | 📅 2026-09-01
 * [Experiment: making TypeScript immutable-by-default](https://evanhahn.com/typescript-immutability-experiment/)
 * [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
 * [Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
@@ -396,9 +396,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Vue.js
 
-* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,977 | 🐛 2 | 🌐 Vue | 📅 2026-08-31 - Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,980 | 🐛 3 | 🌐 Vue | 📅 2026-09-01 - Streaming Markdown renderer for AI chat across Vue, React, Svelte and Angular.
 * [Useful Vue patterns, techniques, tips and tricks and helpful curated links](https://github.com/learn-vuejs/vue-patterns) ⭐ 2,943 | 🐛 21 | 📅 2022-12-10
-* [Vue-stream-markdown: Streaming markdown renderer for Vue 3](https://github.com/jinghaihan/vue-stream-markdown) ⭐ 228 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
+* [Vue-stream-markdown: Streaming markdown renderer for Vue 3](https://github.com/jinghaihan/vue-stream-markdown) ⭐ 228 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
 * [Toastflow: TS-first toast engine for Vue 3](https://github.com/adrianjanocko/toastflow) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)
 * [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/)
@@ -494,15 +494,15 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 501,678 | 🐛 105 | 📅 2026-08-21
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 501,975 | 🐛 105 | 📅 2026-08-21
 * [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
-* [enaqx/awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,453 | 🐛 86 | 📅 2026-08-20
-* [Vue.js/awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,549 | 🐛 101 | 📅 2026-07-24
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,639 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,059 | 🐛 22 | 📅 2026-07-28
+* [enaqx/awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,461 | 🐛 89 | 📅 2026-08-20
+* [Vue.js/awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,550 | 🐛 103 | 📅 2026-07-24
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,638 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,061 | 🐛 25 | 📅 2026-07-28
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css) ⭐ 5,625 | 🐛 26 | 📅 2024-10-30
-* [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) ⭐ 5,530 | 🐛 29 | 📅 2025-09-15
-* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,649 | 🐛 39 | 🌐 Shell | 📅 2026-07-16
+* [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) ⭐ 5,531 | 🐛 29 | 📅 2025-09-15
+* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 39 | 🌐 Shell | 📅 2026-07-16
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,204 | 🐛 26 | 📅 2024-07-31
 * [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs) ⚠️ Archived
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery) ⭐ 980 | 🐛 0 | 📅 2026-01-01
@@ -517,4 +517,4 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
