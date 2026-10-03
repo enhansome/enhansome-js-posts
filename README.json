@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Angular 8.0.0-RC.0 is out!",
-          "description": null,
+          "description": "angular/angular",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:21:18Z",
-            "open_issues": 1141,
+            "last_commit": "2026-10-02T18:57:02Z",
+            "open_issues": 1142,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101009,
+            "stars": 101013,
             "topics": [
               "angular",
               "javascript",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Full Stack Angular PWA example app with NgRx & NestJS",
-          "description": null,
+          "description": "avatsaev/angular-contacts-app-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -74,7 +74,7 @@
         {
           "node_type": "item",
           "title": "Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch",
-          "description": null,
+          "description": "sindresorhus/ky",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -87,7 +87,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "ky",
-            "stars": 17104,
+            "stars": 17103,
             "topics": [
               "fetch",
               "http-client",
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "ApexCharts: A JavaScript Chart (and More) Library",
-          "description": null,
+          "description": "apexcharts/apexcharts.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,7 +136,7 @@
         {
           "node_type": "item",
           "title": "Shepherd: Guide Your Users Through a Tour of Your App",
-          "description": null,
+          "description": "shipshapecode/shepherd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
             "open_issues": 30,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13819,
+            "stars": 13820,
             "topics": [
               "hacktoberfest",
               "shepherd",
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "git-history: Quickly Browse the History of any GitHub File",
-          "description": null,
+          "description": "pomber/git-history",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "Fiddle: The Easiest Way to Get Started with Electron",
-          "description": null,
+          "description": "electron/fiddle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
         {
           "node_type": "item",
           "title": "eslint-plugin-unicorn: Various Awesome ESLint Rules",
-          "description": null,
+          "description": "sindresorhus/eslint-plugin-unicorn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -229,8 +229,8 @@
             "id": 55832243,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:17:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T03:17:44Z",
+            "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "eslint-plugin-unicorn",
             "stars": 5258,
@@ -251,7 +251,7 @@
         {
           "node_type": "item",
           "title": "v8n: A JavaScript Fluent Validation Library",
-          "description": null,
+          "description": "imbrn/v8n",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "Dembrandt: Extract design tokens and components from any site (Playwright)",
-          "description": null,
+          "description": "dembrandt/dembrandt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,7 +289,7 @@
             "open_issues": 10,
             "owner": "dembrandt",
             "repo": "dembrandt",
-            "stars": 3591,
+            "stars": 3593,
             "topics": [
               "brand-audits",
               "claude-code",
@@ -318,7 +318,7 @@
         {
           "node_type": "item",
           "title": "Panolens.js: A JavaScript Panorama Viewer Based on Three.js",
-          "description": null,
+          "description": "pchen66/panolens.js",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -339,7 +339,7 @@
         {
           "node_type": "item",
           "title": "Dumper.js: A Pretty Variable Inspector for Node",
-          "description": null,
+          "description": "ziishaned/dumper.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +360,7 @@
         {
           "node_type": "item",
           "title": "Swagger Client: A JS Client to Fetch, Resolve, and Interact with Swagger/OpenAPI Documents",
-          "description": null,
+          "description": "swagger-api/swagger-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +395,7 @@
         {
           "node_type": "item",
           "title": "Nodebook: A Minimalist Node REPL with a Web-Based UI",
-          "description": null,
+          "description": "netgusto/nodebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -437,7 +437,7 @@
         {
           "node_type": "item",
           "title": "PrettyError: See Node.js Errors with Less Clutter and Better Formatting",
-          "description": null,
+          "description": "AriaMinaei/pretty-error",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -458,7 +458,7 @@
         {
           "node_type": "item",
           "title": "Financial: A Zero-Dependency Financial Calculations Library",
-          "description": null,
+          "description": "lmammino/financial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -490,7 +490,7 @@
         {
           "node_type": "item",
           "title": "ky-universal: Use Ky in Both Node.js and Browsers",
-          "description": null,
+          "description": "sindresorhus/ky-universal",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies",
-          "description": null,
+          "description": "zewish/rmodal.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -549,7 +549,7 @@
         {
           "node_type": "item",
           "title": "crypto-random-string 5.0: Generate a Cryptographically Strong Random String",
-          "description": null,
+          "description": "sindresorhus/crypto-random-string",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "PocketMocker: In-browser fetch/XHR interceptor for API mocking",
-          "description": null,
+          "description": "tianchangNorth/pocket-mocker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "Axax: Async Iterator Extensions for JavaScript e.g. , , , , etc.",
-          "description": null,
+          "description": "jamiemccrindle/axax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -633,7 +633,7 @@
         {
           "node_type": "item",
           "title": "FUNC: Another Simple Way to Build Command-Line Tools",
-          "description": null,
+          "description": "unix/func",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "Aeon: A Lightweight Date Picker Built with Web Components",
-          "description": null,
+          "description": "lamplightdev/aeon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,7 +680,7 @@
         {
           "node_type": "item",
           "title": "Composify: Embed a visual editor to compose pages from real React components",
-          "description": null,
+          "description": "composify-js/composify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,7 +707,7 @@
         {
           "node_type": "item",
           "title": "new-tailwind-app: Set up a tailwind app with",
-          "description": null,
+          "description": "msaaddev/new-tailwind-app",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -743,7 +743,7 @@
         {
           "node_type": "item",
           "title": "Campkit: A Framework for Building Node.js Microservices Faster",
-          "description": null,
+          "description": "getcampsite/campkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "Easy Attach: A Helper Tool To Dynamically Launch the Debugger",
-          "description": null,
+          "description": "hediet/easy-attach",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -795,7 +795,7 @@
         {
           "node_type": "item",
           "title": "routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally",
-          "description": null,
+          "description": "drewjbartlett/routegen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,7 +830,7 @@
         {
           "node_type": "item",
           "title": "30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets",
-          "description": null,
+          "description": "Chalarangelo/30-seconds-of-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
             "open_issues": 0,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129309,
+            "stars": 129308,
             "topics": [
               "astro",
               "awesome-list",
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "33 Concepts Every JavaScript Developer Should Know",
-          "description": null,
+          "description": "leonardomso/33-js-concepts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -878,7 +878,7 @@
             "open_issues": 8,
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66533,
+            "stars": 66534,
             "topics": [
               "angular",
               "concepts",
@@ -900,7 +900,7 @@
         {
           "node_type": "item",
           "title": "43 JavaScript Questions, With Their Answers Explained",
-          "description": null,
+          "description": "lydiahallie/javascript-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -913,7 +913,7 @@
             "open_issues": 53,
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65304,
+            "stars": 65303,
             "topics": []
           },
           "first_seen": "2026-08-28T23:04:45.908Z"
@@ -921,7 +921,7 @@
         {
           "node_type": "item",
           "title": "Mastering Modular JavaScript",
-          "description": null,
+          "description": "mjavascript/mastering-modular-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,7 +955,7 @@
         {
           "node_type": "item",
           "title": "A Growing Collection of 86 Node.js Best Practices",
-          "description": null,
+          "description": "goldbergyoni/nodebestpractices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +968,7 @@
             "open_issues": 137,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105652,
+            "stars": 105651,
             "topics": [
               "best-practices",
               "es6",
@@ -995,7 +995,7 @@
         {
           "node_type": "item",
           "title": "Got 9.0: A Powerful HTTP Request Library for Node.js",
-          "description": null,
+          "description": "sindresorhus/got",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1023,7 +1023,7 @@
         {
           "node_type": "item",
           "title": "The fastest Node.js library for formatting terminal text with ANSI colors",
-          "description": null,
+          "description": "lukeed/kleur",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +1044,7 @@
         {
           "node_type": "item",
           "title": "node-pg-migrate: Node.js Database Migration Management for PostgreSQL",
-          "description": null,
+          "description": "salsita/node-pg-migrate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1054,7 +1054,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T17:11:07Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "salsita",
             "repo": "node-pg-migrate",
             "stars": 1487,
@@ -1085,7 +1085,7 @@
         {
           "node_type": "item",
           "title": "See also deno: A secure TypeScript runtime on V8",
-          "description": null,
+          "description": "ry/deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,7 +1112,7 @@
         {
           "node_type": "item",
           "title": "Deno 1.0.2 Released",
-          "description": null,
+          "description": "denoland/deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1122,10 +1122,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T17:20:25Z",
-            "open_issues": 1647,
+            "open_issues": 1649,
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108543,
+            "stars": 108550,
             "topics": [
               "deno",
               "javascript",
@@ -1144,7 +1144,7 @@
         {
           "node_type": "item",
           "title": "Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
-          "description": null,
+          "description": "goldbergyoni/javascript-testing-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1191,7 +1191,7 @@
         {
           "node_type": "item",
           "title": "Tips for performant TypeScript",
-          "description": null,
+          "description": "microsoft/TypeScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1200,11 +1200,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:38:00Z",
-            "open_issues": 5056,
+            "last_commit": "2026-10-03T04:24:16Z",
+            "open_issues": 5052,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111309,
+            "stars": 111314,
             "topics": [
               "javascript",
               "language",
@@ -1223,7 +1223,7 @@
         {
           "node_type": "item",
           "title": "Night Owl: A VS Code dark theme for contrast for nighttime coding",
-          "description": null,
+          "description": "sdras/night-owl-vscode-theme",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1255,7 +1255,7 @@
         {
           "node_type": "item",
           "title": "Subliminal: An opinionated minimalistic VS Code theme for JavaScript",
-          "description": null,
+          "description": "gaearon/subliminal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1281,7 +1281,7 @@
         {
           "node_type": "item",
           "title": "Syntax Highlighting in VS Code for HTML Inside of JavaScript",
-          "description": null,
+          "description": "mjbvz/vscode-lit-html",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1317,8 +1317,8 @@
             "id": 988222683,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:44:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T00:49:40Z",
+            "open_issues": 3,
             "owner": "Simon-He95",
             "repo": "markstream-vue",
             "stars": 3024,
@@ -1349,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "Useful Vue patterns, techniques, tips and tricks and helpful curated links",
-          "description": null,
+          "description": "learn-vuejs/vue-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "Vue-stream-markdown: Streaming markdown renderer for Vue 3",
-          "description": null,
+          "description": "jinghaihan/vue-stream-markdown",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1404,7 +1404,7 @@
         {
           "node_type": "item",
           "title": "Toastflow: TS-first toast engine for Vue 3",
-          "description": null,
+          "description": "adrianjanocko/toastflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1443,7 +1443,7 @@
         {
           "node_type": "item",
           "title": "Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest",
-          "description": null,
+          "description": "GoogleChromeLabs/critters",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1476,7 +1476,7 @@
         {
           "node_type": "item",
           "title": "Mongoku: A neat, new Web interface for Mongo",
-          "description": null,
+          "description": "huggingface/Mongoku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1513,7 +1513,7 @@
         {
           "node_type": "item",
           "title": "sindresorhus/awesome",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1526,7 +1526,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513644,
+            "stars": 513797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1540,7 +1540,7 @@
         {
           "node_type": "item",
           "title": "maximAbramchuck/awesome-interviews",
-          "description": null,
+          "description": "DopplerHQ/awesome-interview-questions",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1553,7 +1553,7 @@
             "open_issues": 48,
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84761,
+            "stars": 84771,
             "topics": [
               "android-interview-questions",
               "angularjs-interview-questions",
@@ -1576,7 +1576,7 @@
         {
           "node_type": "item",
           "title": "enaqx/awesome-react",
-          "description": null,
+          "description": "enaqx/awesome-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1589,7 +1589,7 @@
             "open_issues": 17,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74777,
+            "stars": 74782,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1608,7 +1608,7 @@
         {
           "node_type": "item",
           "title": "Vue.js/awesome-vue",
-          "description": null,
+          "description": "vuejs/awesome-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1629,7 +1629,7 @@
         {
           "node_type": "item",
           "title": "bayandin/awesome-awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1650,7 +1650,7 @@
         {
           "node_type": "item",
           "title": "davidsonfellipe/awesome-wpo",
-          "description": null,
+          "description": "davidsonfellipe/awesome-wpo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1663,7 +1663,7 @@
             "open_issues": 35,
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9106,
+            "stars": 9104,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "sotayamashita/awesome-css",
-          "description": null,
+          "description": "awesome-css-group/awesome-css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1691,7 +1691,7 @@
             "open_issues": 30,
             "owner": "awesome-css-group",
             "repo": "awesome-css",
-            "stars": 5639,
+            "stars": 5641,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1704,7 +1704,7 @@
         {
           "node_type": "item",
           "title": "nuxt-community/awesome-nuxt",
-          "description": null,
+          "description": "nuxt/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,7 +1717,7 @@
             "open_issues": 30,
             "owner": "nuxt",
             "repo": "awesome",
-            "stars": 5532,
+            "stars": 5533,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1733,7 +1733,7 @@
         {
           "node_type": "item",
           "title": "willianjusten/awesome-svg",
-          "description": null,
+          "description": "willianjusten/awesome-svg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1746,7 +1746,7 @@
             "open_issues": 51,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4652,
+            "stars": 4651,
             "topics": [
               "awesome-list",
               "svg"
@@ -1757,7 +1757,7 @@
         {
           "node_type": "item",
           "title": "emijrp/awesome-awesome",
-          "description": null,
+          "description": "emijrp/awesome-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1770,7 +1770,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1781,7 +1781,7 @@
         {
           "node_type": "item",
           "title": "gianarb/awesome-angularjs",
-          "description": null,
+          "description": "gianarb/awesome-angularjs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1802,7 +1802,7 @@
         {
           "node_type": "item",
           "title": "peterkokot/awesome-jquery",
-          "description": null,
+          "description": "petk/awesome-jquery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1828,7 +1828,7 @@
         {
           "node_type": "item",
           "title": "styfle/awesome-desktop-js",
-          "description": null,
+          "description": "styfle/awesome-desktop-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1841,7 +1841,7 @@
             "open_issues": 6,
             "owner": "styfle",
             "repo": "awesome-desktop-js",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1855,7 +1855,7 @@
         {
           "node_type": "item",
           "title": "obetomuniz/awesome-webcomponents",
-          "description": null,
+          "description": "obetomuniz/awesome-webcomponents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1879,7 +1879,7 @@
         {
           "node_type": "item",
           "title": "sadcitizen/awesome-backbone",
-          "description": null,
+          "description": "sadcitizen/awesome-backbone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1900,7 +1900,7 @@
         {
           "node_type": "item",
           "title": "peterkokot/awesome-dojo",
-          "description": null,
+          "description": "petk/awesome-dojo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1928,7 +1928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:30:41.526Z",
+    "last_updated": "2026-10-03T04:50:46.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of the latest posts, blogs and repositories related to JavaScript.",
